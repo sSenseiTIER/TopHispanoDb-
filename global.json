@@ -1,1 +1,306 @@
-
+{
+  "netherite pot": [
+    {
+      "pos": 1,
+      "nick": "alvmaskneverdies",
+      "discord_id": 1229092214827647118
+    },
+    {
+      "pos": 2,
+      "nick": "Darkeens",
+      "discord_id": 1220056288139022497
+    },
+    {
+      "pos": 3,
+      "nick": "knockeado",
+      "discord_id": 977672618465427567
+    },
+    {
+      "pos": 4,
+      "nick": "specxd",
+      "discord_id": 1095025553007976581
+    },
+    {
+      "pos": 5,
+      "nick": "zS4G4",
+      "discord_id": 1011773389825900665
+    },
+    {
+      "pos": 6,
+      "nick": "SlateAthlete652",
+      "discord_id": 1313333993252585572
+    },
+    {
+      "pos": 7,
+      "nick": "Heatedsand",
+      "discord_id": 887329148660498432
+    },
+    {
+      "pos": 8,
+      "nick": "FastNahux",
+      "discord_id": 1418717684417302609
+    },
+    {
+      "pos": 9,
+      "nick": "sw1t0",
+      "discord_id": 1421904024508043324
+    },
+    {
+      "pos": 10,
+      "nick": "Keskloa",
+      "discord_id": 1015388131643629668
+    }
+  ],
+  "uhc": [
+    {
+      "pos": 1,
+      "nick": "PvbloChill",
+      "discord_id": 1321969431630581811
+    },
+    {
+      "pos": 2,
+      "nick": "SoySaguate",
+      "discord_id": 1365648787300683786
+    }
+  ],
+  "sword": [
+    {
+      "pos": 1,
+      "nick": "EdxLy",
+      "discord_id": 1393977541051813970
+    },
+    {
+      "pos": 2,
+      "nick": "Tilw",
+      "discord_id": 1068594443441164328
+    },
+    {
+      "pos": 3,
+      "nick": "alvmaskneverdies",
+      "discord_id": 1229092214827647118
+    },
+    {
+      "pos": 4,
+      "nick": "Heatedsand",
+      "discord_id": 887329148660498432
+    },
+    {
+      "pos": 5,
+      "nick": "zKr4zy_",
+      "discord_id": 1346958255800320071
+    },
+    {
+      "pos": 6,
+      "nick": "ngrEsteban",
+      "discord_id": 445065732561174560
+    },
+    {
+      "pos": 7,
+      "nick": "nylue9",
+      "discord_id": 1119053716788617276
+    },
+    {
+      "pos": 8,
+      "nick": "EL_MARIHUAN0",
+      "discord_id": 660534428518318090
+    }
+  ],
+  "diamond pot": [
+    {
+      "pos": 1,
+      "nick": "alvmaskneverdies",
+      "discord_id": 1229092214827647118
+    },
+    {
+      "pos": 2,
+      "nick": "Darkeens",
+      "discord_id": 1220056288139022497
+    },
+    {
+      "pos": 3,
+      "nick": "Valuxe",
+      "discord_id": 1241523227742830635
+    },
+    {
+      "pos": 4,
+      "nick": "leazer",
+      "discord_id": 1326712304300986378
+    },
+    {
+      "pos": 5,
+      "nick": "nicozzz777",
+      "discord_id": 1093545166826127410
+    }
+  ],
+  "smp": [
+    {
+      "pos": 1,
+      "nick": "ShafyX",
+      "discord_id": 903476004830474282
+    },
+    {
+      "pos": 2,
+      "nick": "﻿LenelFA_",
+      "discord_id": 426164479332712448
+    },
+    {
+      "pos": 3,
+      "nick": "Heatedsand",
+      "discord_id": 887329148660498432
+    },
+    {
+      "pos": 4,
+      "nick": "zkryz_",
+      "discord_id": 1434333690439401545
+    },
+    {
+      "pos": 5,
+      "nick": "Sr_cPvP",
+      "discord_id": 1405676911685795911
+    },
+    {
+      "pos": 6,
+      "nick": "zS4G4",
+      "discord_id": 1011773389825900665
+    }
+  ],
+  "cristal": [
+    {
+      "pos": 1,
+      "nick": "iMnta",
+      "discord_id": 902216787557494834
+    },
+    {
+      "pos": 2,
+      "nick": "nicolatrump",
+      "discord_id": 1093732777112907777
+    },
+    {
+      "pos": 3,
+      "nick": "Ldqus",
+      "discord_id": 977322307762679888
+    },
+    {
+      "pos": 4,
+      "nick": "Styffy",
+      "discord_id": 936042255599415307
+    },
+    {
+      "pos": 5,
+      "nick": "Zathot",
+      "discord_id": 1222177194965467197
+    },
+    {
+      "pos": 6,
+      "nick": "Kotql_",
+      "discord_id": 1057428250961399808
+    },
+    {
+      "pos": 7,
+      "nick": "Larguiro",
+      "discord_id": 1323137127231262806
+    },
+    {
+      "pos": 8,
+      "nick": "nsqk_roy",
+      "discord_id": 1190943999159181434
+    },
+    {
+      "pos": 9,
+      "nick": "kath_rinxx",
+      "discord_id": 1397701394928107704
+    },
+    {
+      "pos": 10,
+      "nick": "KroniKs",
+      "discord_id": 773273298179063829
+    }
+  ],
+  "mace": [
+    {
+      "pos": 1,
+      "nick": "Ovieedo",
+      "discord_id": 548889180864774174
+    },
+    {
+      "pos": 2,
+      "nick": "Heatedsand",
+      "discord_id": 887329148660498432
+    },
+    {
+      "pos": 3,
+      "nick": "JaimeEpstein",
+      "discord_id": 850794735890595880
+    },
+    {
+      "pos": 4,
+      "nick": "vickslover",
+      "discord_id": 719332673088389191
+    },
+    {
+      "pos": 5,
+      "nick": "CheaterPlayer",
+      "discord_id": 1316103570419879949
+    },
+    {
+      "pos": 6,
+      "nick": "Larguiro",
+      "discord_id": 1323137127231262806
+    },
+    {
+      "pos": 7,
+      "nick": "nicolatrump",
+      "discord_id": 1093732777112907777
+    },
+    {
+      "pos": 8,
+      "nick": "IdeasOrejas",
+      "discord_id": 957724603487223850
+    },
+    {
+      "pos": 9,
+      "nick": "LaInsanidad",
+      "discord_id": 1261485384102051940
+    },
+    {
+      "pos": 10,
+      "nick": "xExho",
+      "discord_id": 1442997340029059153
+    }
+  ],
+  "axe": [
+    {
+      "pos": 1,
+      "nick": "Jv2t1n_Lt",
+      "discord_id": 777164119148855316
+    },
+    {
+      "pos": 2,
+      "nick": "Jeaansky",
+      "discord_id": 993730848643887175
+    },
+    {
+      "pos": 3,
+      "nick": "ShafyX",
+      "discord_id": 903476004830474282
+    },
+    {
+      "pos": 4,
+      "nick": "HolaRegez",
+      "discord_id": 1175550997968457741
+    },
+    {
+      "pos": 5,
+      "nick": "Manteka_",
+      "discord_id": 989381888101736448
+    }
+  ],
+  "_img_netherite pot": "https://cdn.discordapp.com/attachments/1474616195306098688/1474616196115726488/171117041714694814.png?ex=69a7adda&is=69a65c5a&hm=e7e1ae29e4e61fe0e66c40a255a4072510266f324b0b0ea5609f57187da62e3c&",
+  "_img_uhc": "https://cdn.discordapp.com/attachments/1474614250843541624/1474614251057577984/6e8e7484935876ffd6affe76752e6cb56ff492a8_350.png?ex=69a7ac0a&is=69a65a8a&hm=93dcae813033a2424f433df3f2318137264cc5c83ca34923d944e7f73b3079be&",
+  "_img_sword": "https://cdn.discordapp.com/attachments/1474802138373816454/1474802138877268149/fee96fb5d4c69bc55a400023dbf839b8.png?ex=69a7b246&is=69a660c6&hm=ac2e5c4d7372a9f68ee869c6a822a68a8a0db8393a5f1c90a54073e26e99e447&",
+  "_img_diamond pot": "https://cdn.discordapp.com/attachments/1474618236556415231/1474618237416243264/hq720.png?ex=69a7afc0&is=69a65e40&hm=5c440dcfb58ca2f4711e4801fb5c3efbfbb998e847b97acf140e466ab347b589&",
+  "_img_smp": "https://cdn.discordapp.com/attachments/1474870212099706921/1474870212841967636/4cb4290a3aa247194812de4555300d4e.png?ex=69a7f1ac&is=69a6a02c&hm=ca2eee493f9f72e0f5577a15b79a6a4553e7d5c0b7b8dcf56fdbcb8c8f7b26f8&",
+  "_img_cristal": "https://cdn.discordapp.com/attachments/1474616447862050877/1474616448713363638/image.png?ex=69a7ae16&is=69a65c96&hm=0016b303df284f9bc34fd64a234d64d39a88edf58b7ee697f8363147d3eff151&",
+  "_img_mace": "https://cdn.discordapp.com/attachments/1474616729471684791/1474616729761087529/2aaa555030ca7f61560b89cc00880e20.png?ex=69a7ae59&is=69a65cd9&hm=68a104a2f7bb29cbab5465f59b88f8322973ccf27b05976b0cd0622ea653de67&",
+  "_img_axe": "https://cdn.discordapp.com/attachments/1474618762077405315/1474618762429857842/a3T17PeoohxqVcqmpObgtEaZaxtz8iiHH444Zs8feq072x2upqSMJKPf9vOrrH4xiTyuGT4ks900-c-k-c0x00ffffff-no-rj.png?ex=69a7b03e&is=69a65ebe&hm=b450b5169ae6ac8d9c2c63709e790b68d02e7e9118eaaa2c5f1abc79ac372992&"
+}
