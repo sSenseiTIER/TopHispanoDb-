@@ -40,6 +40,11 @@
         "pos": 8,
         "nick": "Vayju",
         "discord_id": 823659261183262730
+      },
+      {
+        "pos": 9,
+        "nick": "LaCabra56",
+        "discord_id": 1019361498528747560
       }
     ],
     "Bolivia": [],
@@ -78,7 +83,7 @@
     "Colombia": [
       {
         "pos": 1,
-        "nick": "specxd",
+        "nick": "olefede",
         "discord_id": 1095025553007976581
       },
       {
@@ -610,6 +615,11 @@
         "pos": 5,
         "nick": "iKaponTrash",
         "discord_id": 1272343935758499952
+      },
+      {
+        "pos": 6,
+        "nick": "AgusiXTop",
+        "discord_id": 758427200726368297
       }
     ],
     "Bolivia": [],
@@ -900,6 +910,11 @@
         "pos": 1,
         "nick": "Jv2t1n_Lt",
         "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
+        "nick": "AurenAbsolute",
+        "discord_id": 976632250223443968
       }
     ],
     "Uruguay": [
@@ -925,7 +940,7 @@
       },
       {
         "pos": 2,
-        "nick": "AgusiXtop",
+        "nick": "AgusiXTop",
         "discord_id": 758427200726368297
       },
       {
@@ -975,7 +990,7 @@
       },
       {
         "pos": 4,
-        "nick": "specxd",
+        "nick": "olefede",
         "discord_id": 1095025553007976581
       }
     ],
@@ -1039,6 +1054,11 @@
         "pos": 1,
         "nick": "Jv2t1n_Lt",
         "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
+        "nick": "AurenAbsolute",
+        "discord_id": 976632250223443968
       }
     ],
     "Uruguay": [
@@ -1129,7 +1149,7 @@
       },
       {
         "pos": 2,
-        "nick": "specxd",
+        "nick": "olefede",
         "discord_id": 1095025553007976581
       },
       {
@@ -1153,7 +1173,13 @@
         "discord_id": 804926256923148310
       }
     ],
-    "Costa Rica": [],
+    "Costa Rica": [
+      {
+        "pos": 1,
+        "nick": "VueltoConsome",
+        "discord_id": 1251900624610660368
+      }
+    ],
     "Ecuador": [
       {
         "pos": 1,
@@ -1278,6 +1304,11 @@
         "pos": 9,
         "nick": "KroniKs",
         "discord_id": 773273298179063829
+      },
+      {
+        "pos": 10,
+        "nick": "amiuue",
+        "discord_id": 1436201324231266438
       }
     ],
     "República Dominicana": [
@@ -1633,7 +1664,7 @@
     "Colombia": [
       {
         "pos": 1,
-        "nick": "specxd",
+        "nick": "olefede",
         "discord_id": 1095025553007976581
       }
     ],
