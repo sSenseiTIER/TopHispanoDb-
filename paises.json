@@ -45,6 +45,11 @@
         "pos": 9,
         "nick": "LaCabra56",
         "discord_id": 1019361498528747560
+      },
+      {
+        "pos": 10,
+        "nick": "FalsoHT3",
+        "discord_id": 972718209373450271
       }
     ],
     "Bolivia": [],
@@ -369,7 +374,7 @@
       },
       {
         "pos": 2,
-        "nick": "Sypruk",
+        "nick": "sypruk",
         "discord_id": 712999145815801912
       },
       {
@@ -450,6 +455,16 @@
         "pos": 3,
         "nick": "zFoxt10",
         "discord_id": 872558223998201856
+      },
+      {
+        "pos": 4,
+        "nick": "IdeasOrejas",
+        "discord_id": 957724603487223850
+      },
+      {
+        "pos": 5,
+        "nick": "zNewt1",
+        "discord_id": 1139344966330617899
       }
     ],
     "Colombia": [
@@ -520,6 +535,11 @@
         "pos": 3,
         "nick": "Oliver2002GG",
         "discord_id": 1453885013153153024
+      },
+      {
+        "pos": 4,
+        "nick": "YeyoBrkDwnTQM",
+        "discord_id": 769680873846865926
       }
     ],
     "Nicaragua": [],
@@ -569,12 +589,22 @@
         "pos": 1,
         "nick": "nylue9",
         "discord_id": 1119053716788617276
+      },
+      {
+        "pos": 2,
+        "nick": "IsaakEnlaJ",
+        "discord_id": 1391085138514935898
+      },
+      {
+        "pos": 3,
+        "nick": "_eneku",
+        "discord_id": 1206290789076836403
       }
     ],
     "Venezuela": [
       {
         "pos": 1,
-        "nick": "Jeaansky",
+        "nick": "DaShineEz",
         "discord_id": 993730848643887175
       },
       {
@@ -608,13 +638,13 @@
       },
       {
         "pos": 4,
-        "nick": "ngrPelah",
-        "discord_id": 1038143639672594474
+        "nick": "iKaponTrash",
+        "discord_id": 1272343935758499952
       },
       {
         "pos": 5,
-        "nick": "iKaponTrash",
-        "discord_id": 1272343935758499952
+        "nick": "pelah",
+        "discord_id": 1038143639672594474
       },
       {
         "pos": 6,
@@ -655,6 +685,11 @@
         "pos": 2,
         "nick": "Heatedsand",
         "discord_id": 887329148660498432
+      },
+      {
+        "pos": 3,
+        "nick": "ocmaly",
+        "discord_id": 1356672328506933261
       }
     ],
     "Costa Rica": [
@@ -843,10 +878,21 @@
         "pos": 1,
         "nick": "Heatedsand",
         "discord_id": 887329148660498432
+      },
+      {
+        "pos": 2,
+        "nick": "ocmaly",
+        "discord_id": 1356672328506933261
       }
     ],
     "Costa Rica": [],
-    "Ecuador": [],
+    "Ecuador": [
+      {
+        "pos": 1,
+        "nick": "PXOJA",
+        "discord_id": 1393977541051813970
+      }
+    ],
     "El Salvador": [
       {
         "pos": 1,
@@ -901,7 +947,7 @@
       },
       {
         "pos": 4,
-        "nick": "Morfeeo_Lt",
+        "nick": "Morfeeo_lt",
         "discord_id": 1399576478827679777
       }
     ],
@@ -1183,7 +1229,7 @@
     "Ecuador": [
       {
         "pos": 1,
-        "nick": "Ldqus",
+        "nick": "polla",
         "discord_id": 977322307762679888
       },
       {
@@ -1345,6 +1391,11 @@
         "pos": 3,
         "nick": "howk1l",
         "discord_id": 1101969038365687999
+      },
+      {
+        "pos": 4,
+        "nick": "0winRate",
+        "discord_id": 1376606948589441026
       }
     ]
   },
@@ -1604,7 +1655,7 @@
       },
       {
         "pos": 4,
-        "nick": "Jeaansky",
+        "nick": "DaShineEz",
         "discord_id": 993730848643887175
       },
       {
@@ -1652,6 +1703,11 @@
         "pos": 1,
         "nick": "Vayju",
         "discord_id": 823659261183262730
+      },
+      {
+        "pos": 2,
+        "nick": "Cuco4",
+        "discord_id": 1378774480259649598
       }
     ],
     "Chile": [
@@ -1659,6 +1715,11 @@
         "pos": 1,
         "nick": "xGiuliano_Ki",
         "discord_id": 1262423692408000654
+      },
+      {
+        "pos": 2,
+        "nick": "DebiTirarMaFotos",
+        "discord_id": 919709949330862171
       }
     ],
     "Colombia": [
@@ -1712,6 +1773,11 @@
         "pos": 1,
         "nick": "Jv2t1n_Lt",
         "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
+        "nick": "AurenAbsolute",
+        "discord_id": 976632250223443968
       }
     ],
     "Uruguay": [
@@ -1724,7 +1790,7 @@
     "Venezuela": [
       {
         "pos": 1,
-        "nick": "Jeaansky",
+        "nick": "DaShineEz",
         "discord_id": 993730848643887175
       }
     ]
