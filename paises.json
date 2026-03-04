@@ -247,11 +247,6 @@
       },
       {
         "pos": 9,
-        "nick": "anointedkafta",
-        "discord_id": 919991639819296859
-      },
-      {
-        "pos": 10,
         "nick": "TheFearOfGod",
         "discord_id": 1208211589178593383
       }
@@ -630,6 +625,11 @@
         "pos": 5,
         "nick": "iLexor",
         "discord_id": 1305892442687410221
+      },
+      {
+        "pos": 6,
+        "nick": "DREAMRUSO",
+        "discord_id": 599336650597728287
       }
     ]
   },
@@ -994,6 +994,11 @@
         "pos": 1,
         "nick": "iLexor",
         "discord_id": 1305892442687410221
+      },
+      {
+        "pos": 2,
+        "nick": "DREAMRUSO",
+        "discord_id": 599336650597728287
       }
     ]
   },
