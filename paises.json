@@ -38,16 +38,11 @@
       },
       {
         "pos": 8,
-        "nick": "Vayju",
-        "discord_id": 823659261183262730
-      },
-      {
-        "pos": 9,
         "nick": "LaCabra56",
         "discord_id": 1019361498528747560
       },
       {
-        "pos": 10,
+        "pos": 9,
         "nick": "FalsoHT3",
         "discord_id": 972718209373450271
       }
@@ -205,11 +200,6 @@
     "Honduras": [
       {
         "pos": 1,
-        "nick": "Vayju",
-        "discord_id": 823659261183262730
-      },
-      {
-        "pos": 2,
         "nick": "Tilw",
         "discord_id": 1068594443441164328
       }
@@ -335,26 +325,21 @@
     "República Dominicana": [
       {
         "pos": 1,
-        "nick": "Jv2t1n_Lt",
-        "discord_id": 777164119148855316
-      },
-      {
-        "pos": 2,
         "nick": "lugsita",
         "discord_id": 513195575525638149
       },
       {
-        "pos": 3,
+        "pos": 2,
         "nick": "SiempreTendreFe",
         "discord_id": 1361095586664812645
       },
       {
-        "pos": 4,
-        "nick": "Younngkingz",
+        "pos": 3,
+        "nick": "33Nzhuel",
         "discord_id": 737430159484780656
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -413,13 +398,7 @@
         "discord_id": 465531784315142167
       }
     ],
-    "Paraguay": [
-      {
-        "pos": 1,
-        "nick": "Vayju",
-        "discord_id": 823659261183262730
-      }
-    ]
+    "Paraguay": []
   },
   "uhc": {
     "Argentina": [
@@ -577,13 +556,7 @@
         "discord_id": 1109904236961087630
       }
     ],
-    "República Dominicana": [
-      {
-        "pos": 1,
-        "nick": "Jv2t1n_Lt",
-        "discord_id": 777164119148855316
-      }
-    ],
+    "República Dominicana": [],
     "Uruguay": [
       {
         "pos": 1,
@@ -628,7 +601,7 @@
       },
       {
         "pos": 2,
-        "nick": "iLunax_",
+        "nick": "kxntx",
         "discord_id": 1326764992707694722
       },
       {
@@ -643,11 +616,6 @@
       },
       {
         "pos": 5,
-        "nick": "pelah",
-        "discord_id": 1038143639672594474
-      },
-      {
-        "pos": 6,
         "nick": "AgusiXTop",
         "discord_id": 758427200726368297
       }
@@ -755,11 +723,6 @@
     "Honduras": [
       {
         "pos": 1,
-        "nick": "Vayju",
-        "discord_id": 823659261183262730
-      },
-      {
-        "pos": 2,
         "nick": "Tilw",
         "discord_id": 1068594443441164328
       }
@@ -818,11 +781,6 @@
     "República Dominicana": [
       {
         "pos": 1,
-        "nick": "Jv2t1n_Lt",
-        "discord_id": 777164119148855316
-      },
-      {
-        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -954,11 +912,6 @@
     "República Dominicana": [
       {
         "pos": 1,
-        "nick": "Jv2t1n_Lt",
-        "discord_id": 777164119148855316
-      },
-      {
-        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -998,11 +951,6 @@
         "pos": 4,
         "nick": "Siemprefeli",
         "discord_id": 1179440077827477589
-      },
-      {
-        "pos": 5,
-        "nick": "ngrPelah",
-        "discord_id": 1038143639672594474
       }
     ],
     "Bolivia": [],
@@ -1098,11 +1046,6 @@
     "República Dominicana": [
       {
         "pos": 1,
-        "nick": "Jv2t1n_Lt",
-        "discord_id": 777164119148855316
-      },
-      {
-        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -1185,6 +1128,11 @@
         "pos": 7,
         "nick": "Namebasing",
         "discord_id": 610932667268988928
+      },
+      {
+        "pos": 8,
+        "nick": "IdeasOrejas",
+        "discord_id": 957724603487223850
       }
     ],
     "Colombia": [
@@ -1217,6 +1165,11 @@
         "pos": 6,
         "nick": "M44kaRmGMp4",
         "discord_id": 804926256923148310
+      },
+      {
+        "pos": 7,
+        "nick": "Suma_supa",
+        "discord_id": 857357825348468756
       }
     ],
     "Costa Rica": [
@@ -1239,7 +1192,7 @@
       },
       {
         "pos": 3,
-        "nick": "m6lq",
+        "nick": "ZATHOT",
         "discord_id": 1222177194965467197
       },
       {
@@ -1448,8 +1401,8 @@
       },
       {
         "pos": 10,
-        "nick": "partituras",
-        "discord_id": 1231699387600732252
+        "nick": "olfd",
+        "discord_id": 1133086656665235568
       }
     ],
     "Bolivia": [],
@@ -1623,11 +1576,6 @@
         "pos": 1,
         "nick": "michikosam",
         "discord_id": 1262783509211254893
-      },
-      {
-        "pos": 2,
-        "nick": "Jv2t1n_Lt",
-        "discord_id": 777164119148855316
       }
     ],
     "Uruguay": [
@@ -1701,11 +1649,6 @@
     "Bolivia": [
       {
         "pos": 1,
-        "nick": "Vayju",
-        "discord_id": 823659261183262730
-      },
-      {
-        "pos": 2,
         "nick": "Cuco4",
         "discord_id": 1378774480259649598
       }
@@ -1753,7 +1696,13 @@
         "discord_id": 1068594443441164328
       }
     ],
-    "México": [],
+    "México": [
+      {
+        "pos": 1,
+        "nick": "Yakix",
+        "discord_id": 1461925411389706323
+      }
+    ],
     "Nicaragua": [],
     "Panamá": [],
     "Perú": [
@@ -1771,11 +1720,6 @@
     "República Dominicana": [
       {
         "pos": 1,
-        "nick": "Jv2t1n_Lt",
-        "discord_id": 777164119148855316
-      },
-      {
-        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
