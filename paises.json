@@ -112,6 +112,11 @@
         "pos": 3,
         "nick": "JunPaPiVaktp",
         "discord_id": 1133512734516981801
+      },
+      {
+        "pos": 4,
+        "nick": "GlaceonZero",
+        "discord_id": 1453195785335214182
       }
     ],
     "Ecuador": [
@@ -726,6 +731,11 @@
         "pos": 1,
         "nick": "JunPaPiVaktp",
         "discord_id": 1133512734516981801
+      },
+      {
+        "pos": 2,
+        "nick": "GlaceonZero",
+        "discord_id": 1453195785335214182
       }
     ],
     "Ecuador": [
@@ -1596,7 +1606,13 @@
         "discord_id": 1190943999159181434
       }
     ],
-    "El Salvador": [],
+    "El Salvador": [
+      {
+        "pos": 1,
+        "nick": "BadFace__",
+        "discord_id": 1277497716355629201
+      }
+    ],
     "España": [],
     "Guatemala": [
       {
