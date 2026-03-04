@@ -76,6 +76,26 @@
       "pos": 5,
       "nick": "IdeasOrejas",
       "discord_id": 957724603487223850
+    },
+    {
+      "pos": 6,
+      "nick": "Samuu_MC",
+      "discord_id": 1132736885635166278
+    },
+    {
+      "pos": 7,
+      "nick": "Perceverancia",
+      "discord_id": 1470004623497494549
+    },
+    {
+      "pos": 8,
+      "nick": "ColorWasHere",
+      "discord_id": 1090798707328417802
+    },
+    {
+      "pos": 9,
+      "nick": "Nasek67",
+      "discord_id": 1464436896934662324
     }
   ],
   "sword": [
@@ -123,6 +143,11 @@
       "pos": 9,
       "nick": "ocmaly",
       "discord_id": 1356672328506933261
+    },
+    {
+      "pos": 10,
+      "nick": "Jv2t1n_Lt",
+      "discord_id": 777164119148855316
     }
   ],
   "diamond pot": [
@@ -163,8 +188,13 @@
     },
     {
       "pos": 8,
-      "nick": "perceverancia",
+      "nick": "Perceverancia",
       "discord_id": 1470004623497494549
+    },
+    {
+      "pos": 9,
+      "nick": "Morfeeo_Lt",
+      "discord_id": 1399576478827679777
     }
   ],
   "smp": [
@@ -197,12 +227,22 @@
       "pos": 6,
       "nick": "zS4G4",
       "discord_id": 1011773389825900665
+    },
+    {
+      "pos": 7,
+      "nick": "Perceverancia",
+      "discord_id": 1470004623497494549
+    },
+    {
+      "pos": 8,
+      "nick": "Samuu_MC",
+      "discord_id": 1132736885635166278
     }
   ],
   "cristal": [
     {
       "pos": 1,
-      "nick": "iMnta",
+      "nick": "imnta",
       "discord_id": 902216787557494834
     },
     {
@@ -306,28 +346,38 @@
   "axe": [
     {
       "pos": 1,
+      "nick": "Jv2t1n",
+      "discord_id": 777164119148855316
+    },
+    {
+      "pos": 2,
       "nick": "DaShineEz",
       "discord_id": 993730848643887175
     },
     {
-      "pos": 2,
+      "pos": 3,
       "nick": "ShafyX",
       "discord_id": 903476004830474282
     },
     {
-      "pos": 3,
+      "pos": 4,
       "nick": "HolaRegez",
       "discord_id": 1175550997968457741
     },
     {
-      "pos": 4,
+      "pos": 5,
       "nick": "Manteka_",
       "discord_id": 989381888101736448
     },
     {
-      "pos": 5,
+      "pos": 6,
       "nick": "Yakix",
       "discord_id": 1461925411389706323
+    },
+    {
+      "pos": 7,
+      "nick": "Perceverancia",
+      "discord_id": 1470004623497494549
     }
   ],
   "_img_netherite pot": "https://cdn.discordapp.com/attachments/1474616195306098688/1474616196115726488/171117041714694814.png?ex=69a7adda&is=69a65c5a&hm=e7e1ae29e4e61fe0e66c40a255a4072510266f324b0b0ea5609f57187da62e3c&",
