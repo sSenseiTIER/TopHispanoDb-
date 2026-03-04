@@ -702,13 +702,13 @@
       },
       {
         "pos": 7,
-        "nick": "M1LKYDOLL",
-        "discord_id": 1463947650272329875
+        "nick": "lautillero",
+        "discord_id": 1017902062173966447
       },
       {
         "pos": 8,
-        "nick": "lautillero",
-        "discord_id": 1017902062173966447
+        "nick": "M1LKYDOLL",
+        "discord_id": 1463947650272329875
       }
     ],
     "Bolivia": [],
@@ -1624,7 +1624,7 @@
       },
       {
         "pos": 4,
-        "nick": "el_chuxa",
+        "nick": "el_Chuxa",
         "discord_id": 1149455559569985631
       },
       {
@@ -1634,18 +1634,18 @@
       },
       {
         "pos": 6,
+        "nick": "Mauroelpro21",
+        "discord_id": 944289336604622848
+      },
+      {
+        "pos": 7,
         "nick": "xyniz0",
         "discord_id": 1250446067187712013
       },
       {
-        "pos": 7,
+        "pos": 8,
         "nick": "KilosM0rtales_",
         "discord_id": 851630495456428032
-      },
-      {
-        "pos": 8,
-        "nick": "Mauroelpro21",
-        "discord_id": 944289336604622848
       }
     ],
     "Colombia": [
@@ -1710,6 +1710,11 @@
         "pos": 1,
         "nick": "1R4k",
         "discord_id": 1205186123836694649
+      },
+      {
+        "pos": 2,
+        "nick": "Lyonc68",
+        "discord_id": 663702564839358505
       }
     ],
     "Guatemala": [
