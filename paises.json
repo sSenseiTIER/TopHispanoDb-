@@ -567,6 +567,11 @@
         "pos": 1,
         "nick": "ToyRein",
         "discord_id": 1326923106572304459
+      },
+      {
+        "pos": 2,
+        "nick": "alquix_",
+        "discord_id": 732388975641100292
       }
     ],
     "Perú": [
@@ -816,7 +821,13 @@
       }
     ],
     "Nicaragua": [],
-    "Panamá": [],
+    "Panamá": [
+      {
+        "pos": 1,
+        "nick": "endersinn",
+        "discord_id": 1359674237090267227
+      }
+    ],
     "Perú": [
       {
         "pos": 1,
