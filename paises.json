@@ -335,13 +335,13 @@
       },
       {
         "pos": 3,
-        "nick": "SiempreTendreFe",
-        "discord_id": 1361095586664812645
+        "nick": "33Nzhuel",
+        "discord_id": 737430159484780656
       },
       {
         "pos": 4,
-        "nick": "33Nzhuel",
-        "discord_id": 737430159484780656
+        "nick": "SiempreTendreFe",
+        "discord_id": 1361095586664812645
       },
       {
         "pos": 5,
@@ -524,7 +524,13 @@
         "discord_id": 1100868710916444220
       }
     ],
-    "España": [],
+    "España": [
+      {
+        "pos": 1,
+        "nick": "lautillero",
+        "discord_id": 1017902062173966447
+      }
+    ],
     "Guatemala": [
       {
         "pos": 1,
@@ -820,8 +826,8 @@
       },
       {
         "pos": 3,
-        "nick": "TresLetras",
-        "discord_id": 414573510225035267
+        "nick": "lautillero",
+        "discord_id": 1017902062173966447
       }
     ],
     "Guatemala": [
@@ -913,13 +919,13 @@
       },
       {
         "pos": 2,
-        "nick": "AurenAbsolute",
-        "discord_id": 976632250223443968
+        "nick": "nosoyrepolloxd",
+        "discord_id": 1476664899609296926
       },
       {
         "pos": 3,
-        "nick": "nosoyrepolloxd",
-        "discord_id": 1476664899609296926
+        "nick": "AurenAbsolute",
+        "discord_id": 976632250223443968
       },
       {
         "pos": 4,
@@ -1255,13 +1261,13 @@
       },
       {
         "pos": 2,
-        "nick": "AurenAbsolute",
-        "discord_id": 976632250223443968
+        "nick": "nosoyrepolloxd",
+        "discord_id": 1476664899609296926
       },
       {
         "pos": 3,
-        "nick": "nosoyrepolloxd",
-        "discord_id": 1476664899609296926
+        "nick": "AurenAbsolute",
+        "discord_id": 976632250223443968
       },
       {
         "pos": 4,
@@ -1684,7 +1690,7 @@
       },
       {
         "pos": 7,
-        "nick": "xyniz0",
+        "nick": "Xyniz0",
         "discord_id": 1250446067187712013
       },
       {
