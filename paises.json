@@ -934,7 +934,13 @@
         "discord_id": 1356672328506933261
       }
     ],
-    "Costa Rica": [],
+    "Costa Rica": [
+      {
+        "pos": 1,
+        "nick": "GlaceonZero",
+        "discord_id": 1453195785335214182
+      }
+    ],
     "Ecuador": [
       {
         "pos": 1,
@@ -1285,6 +1291,11 @@
         "pos": 1,
         "nick": "VueltoConsome",
         "discord_id": 1251900624610660368
+      },
+      {
+        "pos": 2,
+        "nick": "GlaceonZero",
+        "discord_id": 1453195785335214182
       }
     ],
     "Ecuador": [
