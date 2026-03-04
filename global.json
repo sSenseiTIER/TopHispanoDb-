@@ -2,13 +2,13 @@
   "netherite pot": [
     {
       "pos": 1,
-      "nick": "alvmaskneverdies",
-      "discord_id": 1229092214827647118
+      "nick": "specxd",
+      "discord_id": 1095025553007976581
     },
     {
       "pos": 2,
-      "nick": "specxd",
-      "discord_id": 1095025553007976581
+      "nick": "alvmaskneverdies",
+      "discord_id": 1229092214827647118
     },
     {
       "pos": 3,
@@ -96,6 +96,11 @@
       "pos": 9,
       "nick": "Nasek67",
       "discord_id": 1464436896934662324
+    },
+    {
+      "pos": 10,
+      "nick": "YeyoBrkDwnTQM",
+      "discord_id": 769680873846865926
     }
   ],
   "sword": [
@@ -237,6 +242,11 @@
       "pos": 8,
       "nick": "Samuu_MC",
       "discord_id": 1132736885635166278
+    },
+    {
+      "pos": 9,
+      "nick": "Nicoxis23",
+      "discord_id": 502592204150145035
     }
   ],
   "cristal": [
