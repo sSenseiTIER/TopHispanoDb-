@@ -843,6 +843,11 @@
         "pos": 1,
         "nick": "ILoveYouValeria",
         "discord_id": 1175521484928712705
+      },
+      {
+        "pos": 2,
+        "nick": "DREAMRUSO",
+        "discord_id": 599336650597728287
       }
     ]
   },
@@ -867,6 +872,11 @@
         "pos": 4,
         "nick": "tomzl",
         "discord_id": 703235072198836335
+      },
+      {
+        "pos": 5,
+        "nick": "LaCabra56",
+        "discord_id": 1019361498528747560
       }
     ],
     "Bolivia": [],
@@ -1008,6 +1018,11 @@
         "pos": 4,
         "nick": "Siemprefeli",
         "discord_id": 1179440077827477589
+      },
+      {
+        "pos": 5,
+        "nick": "LaCabra56",
+        "discord_id": 1019361498528747560
       }
     ],
     "Bolivia": [],
@@ -1189,16 +1204,11 @@
       },
       {
         "pos": 6,
-        "nick": "Kxyzip",
-        "discord_id": 847846034889113701
-      },
-      {
-        "pos": 7,
         "nick": "Namebasing",
         "discord_id": 610932667268988928
       },
       {
-        "pos": 8,
+        "pos": 7,
         "nick": "IdeasOrejas",
         "discord_id": 957724603487223850
       }
@@ -1374,8 +1384,8 @@
       },
       {
         "pos": 10,
-        "nick": "xFrl",
-        "discord_id": 665979352965709841
+        "nick": "Kxyzip",
+        "discord_id": 847846034889113701
       }
     ],
     "República Dominicana": [
