@@ -325,21 +325,26 @@
     "República Dominicana": [
       {
         "pos": 1,
+        "nick": "Jv2t1n_Lt",
+        "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
         "nick": "lugsita",
         "discord_id": 513195575525638149
       },
       {
-        "pos": 2,
+        "pos": 3,
         "nick": "SiempreTendreFe",
         "discord_id": 1361095586664812645
       },
       {
-        "pos": 3,
+        "pos": 4,
         "nick": "33Nzhuel",
         "discord_id": 737430159484780656
       },
       {
-        "pos": 4,
+        "pos": 5,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -349,6 +354,11 @@
         "pos": 1,
         "nick": "nylue9",
         "discord_id": 1119053716788617276
+      },
+      {
+        "pos": 2,
+        "nick": "i11qe",
+        "discord_id": 1066466002600218704
       }
     ],
     "Venezuela": [
@@ -359,7 +369,7 @@
       },
       {
         "pos": 2,
-        "nick": "sypruk",
+        "nick": "Sypruk",
         "discord_id": 712999145815801912
       },
       {
@@ -444,6 +454,11 @@
         "pos": 5,
         "nick": "zNewt1",
         "discord_id": 1139344966330617899
+      },
+      {
+        "pos": 6,
+        "nick": "ColorWasHere",
+        "discord_id": 1090798707328417802
       }
     ],
     "Colombia": [
@@ -556,7 +571,13 @@
         "discord_id": 1109904236961087630
       }
     ],
-    "República Dominicana": [],
+    "República Dominicana": [
+      {
+        "pos": 1,
+        "nick": "Jv2t1n_Lt",
+        "discord_id": 777164119148855316
+      }
+    ],
     "Uruguay": [
       {
         "pos": 1,
@@ -589,6 +610,11 @@
         "pos": 3,
         "nick": "siemprelloro",
         "discord_id": 1105557419746140160
+      },
+      {
+        "pos": 4,
+        "nick": "Samuu_MC",
+        "discord_id": 1132736885635166278
       }
     ]
   },
@@ -781,6 +807,11 @@
     "República Dominicana": [
       {
         "pos": 1,
+        "nick": "Jv2t1n_Lt",
+        "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -829,6 +860,11 @@
         "pos": 1,
         "nick": "xGiuliano_Ki",
         "discord_id": 1262423692408000654
+      },
+      {
+        "pos": 2,
+        "nick": "zNewt1",
+        "discord_id": 1139344966330617899
       }
     ],
     "Colombia": [
@@ -902,16 +938,16 @@
         "pos": 3,
         "nick": "keskloa",
         "discord_id": 1015388131643629668
-      },
-      {
-        "pos": 4,
-        "nick": "Morfeeo_lt",
-        "discord_id": 1399576478827679777
       }
     ],
     "República Dominicana": [
       {
         "pos": 1,
+        "nick": "Jv2t1n_Lt",
+        "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -1046,6 +1082,11 @@
     "República Dominicana": [
       {
         "pos": 1,
+        "nick": "Jv2t1n_Lt",
+        "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
@@ -1078,13 +1119,13 @@
       },
       {
         "pos": 4,
-        "nick": "tibgood",
-        "discord_id": 483407961104842762
+        "nick": "Siemprefeli",
+        "discord_id": 1179440077827477589
       },
       {
         "pos": 5,
-        "nick": "Siemprefeli",
-        "discord_id": 1179440077827477589
+        "nick": "tibgood",
+        "discord_id": 483407961104842762
       },
       {
         "pos": 6,
@@ -1306,8 +1347,8 @@
       },
       {
         "pos": 10,
-        "nick": "amiuue",
-        "discord_id": 1436201324231266438
+        "nick": "xFrl",
+        "discord_id": 665979352965709841
       }
     ],
     "República Dominicana": [
@@ -1473,6 +1514,11 @@
         "pos": 5,
         "nick": "Nicoxis23",
         "discord_id": 502592204150145035
+      },
+      {
+        "pos": 6,
+        "nick": "AzoroBitMC",
+        "discord_id": 988198551056171018
       }
     ],
     "Costa Rica": [],
@@ -1663,6 +1709,11 @@
         "pos": 2,
         "nick": "DebiTirarMaFotos",
         "discord_id": 919709949330862171
+      },
+      {
+        "pos": 3,
+        "nick": "zNewt1",
+        "discord_id": 1139344966330617899
       }
     ],
     "Colombia": [
@@ -1720,6 +1771,11 @@
     "República Dominicana": [
       {
         "pos": 1,
+        "nick": "Jv2t1n_Lt",
+        "discord_id": 777164119148855316
+      },
+      {
+        "pos": 2,
         "nick": "AurenAbsolute",
         "discord_id": 976632250223443968
       }
