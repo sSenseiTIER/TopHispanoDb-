@@ -406,6 +406,11 @@
         "pos": 9,
         "nick": "BASTIAN",
         "discord_id": 465531784315142167
+      },
+      {
+        "pos": 10,
+        "nick": "iLexor",
+        "discord_id": 1305892442687410221
       }
     ],
     "Paraguay": []
@@ -426,6 +431,11 @@
         "pos": 3,
         "nick": "Siemprefeli",
         "discord_id": 1179440077827477589
+      },
+      {
+        "pos": 4,
+        "nick": "laufcy",
+        "discord_id": 631583555071508526
       }
     ],
     "Bolivia": [],
@@ -615,6 +625,11 @@
         "pos": 4,
         "nick": "Samuu_MC",
         "discord_id": 1132736885635166278
+      },
+      {
+        "pos": 5,
+        "nick": "iLexor",
+        "discord_id": 1305892442687410221
       }
     ]
   },
@@ -637,13 +652,13 @@
       },
       {
         "pos": 4,
-        "nick": "iKaponTrash",
-        "discord_id": 1272343935758499952
+        "nick": "agusixtop",
+        "discord_id": 758427200726368297
       },
       {
         "pos": 5,
-        "nick": "AgusiXTop",
-        "discord_id": 758427200726368297
+        "nick": "iKaponTrash",
+        "discord_id": 1272343935758499952
       }
     ],
     "Bolivia": [],
@@ -964,7 +979,13 @@
         "discord_id": 1119053716788617276
       }
     ],
-    "Venezuela": []
+    "Venezuela": [
+      {
+        "pos": 1,
+        "nick": "iLexor",
+        "discord_id": 1305892442687410221
+      }
+    ]
   },
   "smp": {
     "Argentina": [
@@ -1098,7 +1119,13 @@
         "discord_id": 1119053716788617276
       }
     ],
-    "Venezuela": []
+    "Venezuela": [
+      {
+        "pos": 1,
+        "nick": "iLexor",
+        "discord_id": 1305892442687410221
+      }
+    ]
   },
   "cristal": {
     "Argentina": [
