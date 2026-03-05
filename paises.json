@@ -1197,7 +1197,13 @@
       }
     ],
     "El Salvador": [],
-    "España": [],
+    "España": [
+      {
+        "pos": 1,
+        "nick": "lautillero",
+        "discord_id": 1017902062173966447
+      }
+    ],
     "Guatemala": [
       {
         "pos": 1,
@@ -1593,7 +1599,7 @@
       },
       {
         "pos": 3,
-        "nick": "0winRate_",
+        "nick": "0winRate",
         "discord_id": 1376606948589441026
       },
       {
