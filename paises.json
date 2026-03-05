@@ -444,13 +444,13 @@
       },
       {
         "pos": 6,
-        "nick": "manteka_",
-        "discord_id": 989381888101736448
+        "nick": "AgusiXTop",
+        "discord_id": 758427200726368297
       },
       {
         "pos": 7,
-        "nick": "AgusiXTop",
-        "discord_id": 758427200726368297
+        "nick": "manteka_",
+        "discord_id": 989381888101736448
       }
     ],
     "Bolivia": [],
@@ -628,13 +628,13 @@
       },
       {
         "pos": 8,
-        "nick": "SupMango",
-        "discord_id": 826803175159496755
+        "nick": "LenelFA",
+        "discord_id": 426164479332712448
       },
       {
         "pos": 9,
-        "nick": "LenelFA",
-        "discord_id": 426164479332712448
+        "nick": "SupMango",
+        "discord_id": 826803175159496755
       }
     ],
     "República Dominicana": [
@@ -1838,6 +1838,11 @@
         "pos": 6,
         "nick": "WhoIsKode",
         "discord_id": 1250916834153074712
+      },
+      {
+        "pos": 7,
+        "nick": "ivaanzd",
+        "discord_id": 1091976186663538748
       }
     ],
     "Nicaragua": [],
