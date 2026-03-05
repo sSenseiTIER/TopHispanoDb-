@@ -1629,7 +1629,7 @@
       },
       {
         "pos": 4,
-        "nick": "0winRate",
+        "nick": "0winrate",
         "discord_id": 1376606948589441026
       },
       {
@@ -2259,5 +2259,8 @@
     "República Dominicana": "https://cdn.discordapp.com/attachments/1474515756547964969/1474515756732649502/image.png?ex=69a7f90f&is=69a6a78f&hm=5c3862ce9fa4960e810038228eff74a9c28e7aa87529c68925cb70f77bafaa37&",
     "Uruguay": "https://cdn.discordapp.com/attachments/1474536845118410873/1474536845835501702/image.png?ex=69a80cb3&is=69a6bb33&hm=aa5b70b569f9cbe830b0b94839a8854ac98465768a82c9f49c168f594baee036&",
     "Venezuela": "https://cdn.discordapp.com/attachments/1474515850596712489/1474515850764750858/image.png?ex=69a7f926&is=69a6a7a6&hm=b7ed7d660ec0988de1a73ba1844a57d1c6634ab3622f00be5e18d3513dc537be&"
+  },
+  "crystal pvp": {
+    "test fight": []
   }
 }
