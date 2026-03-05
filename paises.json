@@ -48,7 +48,7 @@
       },
       {
         "pos": 10,
-        "nick": "AgusiXTop",
+        "nick": "agusixtop",
         "discord_id": 758427200726368297
       }
     ],
@@ -268,6 +268,11 @@
         "pos": 1,
         "nick": "iShxdowHuntxr",
         "discord_id": 1018239878997233734
+      },
+      {
+        "pos": 2,
+        "nick": "endersinn",
+        "discord_id": 1359674237090267227
       }
     ],
     "Perú": [
@@ -439,13 +444,13 @@
       },
       {
         "pos": 5,
-        "nick": "zonit",
-        "discord_id": 1358488636424716549
+        "nick": "agusixtop",
+        "discord_id": 758427200726368297
       },
       {
         "pos": 6,
-        "nick": "AgusiXTop",
-        "discord_id": 758427200726368297
+        "nick": "zonit",
+        "discord_id": 1358488636424716549
       },
       {
         "pos": 7,
@@ -723,7 +728,7 @@
       },
       {
         "pos": 5,
-        "nick": "AgusiXTop",
+        "nick": "agusixtop",
         "discord_id": 758427200726368297
       },
       {
@@ -1075,7 +1080,13 @@
       }
     ],
     "Nicaragua": [],
-    "Panamá": [],
+    "Panamá": [
+      {
+        "pos": 1,
+        "nick": "endersinn",
+        "discord_id": 1359674237090267227
+      }
+    ],
     "Perú": [
       {
         "pos": 1,
@@ -1159,7 +1170,7 @@
       },
       {
         "pos": 2,
-        "nick": "AgusiXTop",
+        "nick": "agusixtop",
         "discord_id": 758427200726368297
       },
       {
@@ -1256,7 +1267,13 @@
       }
     ],
     "Nicaragua": [],
-    "Panamá": [],
+    "Panamá": [
+      {
+        "pos": 1,
+        "nick": "endersinn",
+        "discord_id": 1359674237090267227
+      }
+    ],
     "Perú": [
       {
         "pos": 1,
@@ -1946,7 +1963,7 @@
     "Argentina": [
       {
         "pos": 1,
-        "nick": "AgusiXTop",
+        "nick": "agusixtop",
         "discord_id": 758427200726368297
       },
       {
@@ -2038,7 +2055,13 @@
       }
     ],
     "Nicaragua": [],
-    "Panamá": [],
+    "Panamá": [
+      {
+        "pos": 1,
+        "nick": "endersinn",
+        "discord_id": 1359674237090267227
+      }
+    ],
     "Perú": [
       {
         "pos": 1,
