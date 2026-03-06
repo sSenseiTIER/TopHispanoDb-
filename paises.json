@@ -193,6 +193,11 @@
         "pos": 2,
         "nick": "iLoveYouVacio",
         "discord_id": 1142052525919453224
+      },
+      {
+        "pos": 3,
+        "nick": "lautillero",
+        "discord_id": 1017902062173966447
       }
     ],
     "Guatemala": [
@@ -271,13 +276,13 @@
       },
       {
         "pos": 2,
-        "nick": "endersinn",
-        "discord_id": 1359674237090267227
+        "nick": "uxci",
+        "discord_id": 1293150496835764297
       },
       {
         "pos": 3,
-        "nick": "uxci",
-        "discord_id": 1293150496835764297
+        "nick": "endersinn",
+        "discord_id": 1359674237090267227
       }
     ],
     "Perú": [
@@ -778,6 +783,11 @@
         "pos": 4,
         "nick": "HAZHIRA",
         "discord_id": 708014334500143146
+      },
+      {
+        "pos": 5,
+        "nick": "Eideh",
+        "discord_id": 1111706999076433992
       }
     ],
     "Colombia": [
@@ -890,6 +900,11 @@
     "Panamá": [
       {
         "pos": 1,
+        "nick": "uxci",
+        "discord_id": 1293150496835764297
+      },
+      {
+        "pos": 2,
         "nick": "endersinn",
         "discord_id": 1359674237090267227
       }
@@ -1641,18 +1656,18 @@
     "Venezuela": [
       {
         "pos": 1,
+        "nick": "0Winrate_",
+        "discord_id": 1376606948589441026
+      },
+      {
+        "pos": 2,
         "nick": "Yatelaestampo_",
         "discord_id": 1315703509953413141
       },
       {
-        "pos": 2,
+        "pos": 3,
         "nick": "SriFranMG",
         "discord_id": 779872705285455882
-      },
-      {
-        "pos": 3,
-        "nick": "0winrate",
-        "discord_id": 1376606948589441026
       },
       {
         "pos": 4,
