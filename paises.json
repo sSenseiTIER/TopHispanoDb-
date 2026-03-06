@@ -93,16 +93,11 @@
     "Colombia": [
       {
         "pos": 1,
-        "nick": "Specxd",
-        "discord_id": 1095025553007976581
-      },
-      {
-        "pos": 2,
         "nick": "Heatedsand",
         "discord_id": 887329148660498432
       },
       {
-        "pos": 3,
+        "pos": 2,
         "nick": "M44kaRmGMp4",
         "discord_id": 804926256923148310
       }
@@ -259,6 +254,11 @@
         "pos": 8,
         "nick": "TheFearOfGod",
         "discord_id": 1208211589178593383
+      },
+      {
+        "pos": 9,
+        "nick": "TxJuniorPr_",
+        "discord_id": 607689162350526492
       }
     ],
     "Nicaragua": [
@@ -803,16 +803,11 @@
       },
       {
         "pos": 3,
-        "nick": "specxd",
-        "discord_id": 1095025553007976581
-      },
-      {
-        "pos": 4,
         "nick": "ocmaly",
         "discord_id": 1356672328506933261
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "xKatamari",
         "discord_id": 748522193352261683
       }
@@ -1247,11 +1242,6 @@
         "pos": 3,
         "nick": "Nicoxis23",
         "discord_id": 502592204150145035
-      },
-      {
-        "pos": 4,
-        "nick": "Specxd",
-        "discord_id": 1095025553007976581
       }
     ],
     "Costa Rica": [],
@@ -1457,31 +1447,26 @@
       },
       {
         "pos": 2,
-        "nick": "Specxd",
-        "discord_id": 1095025553007976581
-      },
-      {
-        "pos": 3,
         "nick": "7zql1k",
         "discord_id": 1078031020630224910
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nick": "WACALELE",
         "discord_id": 647179193662177340
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "ocmaly",
         "discord_id": 1356672328506933261
       },
       {
-        "pos": 6,
+        "pos": 5,
         "nick": "M44kaRmGMp4",
         "discord_id": 804926256923148310
       },
       {
-        "pos": 7,
+        "pos": 6,
         "nick": "Suma_supa",
         "discord_id": 857357825348468756
       }
@@ -2061,13 +2046,7 @@
         "discord_id": 1139344966330617899
       }
     ],
-    "Colombia": [
-      {
-        "pos": 1,
-        "nick": "Specxd",
-        "discord_id": 1095025553007976581
-      }
-    ],
+    "Colombia": [],
     "Costa Rica": [],
     "Ecuador": [],
     "El Salvador": [
