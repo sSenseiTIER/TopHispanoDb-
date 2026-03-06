@@ -273,6 +273,11 @@
         "pos": 2,
         "nick": "endersinn",
         "discord_id": 1359674237090267227
+      },
+      {
+        "pos": 3,
+        "nick": "uxci",
+        "discord_id": 1293150496835764297
       }
     ],
     "Perú": [
@@ -399,21 +404,16 @@
       },
       {
         "pos": 7,
-        "nick": "Zequiixd",
-        "discord_id": 965946924739985439
-      },
-      {
-        "pos": 8,
         "nick": "Yatelaestampo_",
         "discord_id": 1315703509953413141
       },
       {
-        "pos": 9,
+        "pos": 8,
         "nick": "BASTlAN",
         "discord_id": 465531784315142167
       },
       {
-        "pos": 10,
+        "pos": 9,
         "nick": "iLexor",
         "discord_id": 1305892442687410221
       }
@@ -593,6 +593,11 @@
         "pos": 2,
         "nick": "ToyRein",
         "discord_id": 1326923106572304459
+      },
+      {
+        "pos": 3,
+        "nick": "uxci",
+        "discord_id": 1293150496835764297
       }
     ],
     "Perú": [
@@ -664,11 +669,6 @@
         "pos": 2,
         "nick": "IsaakEnLaJ",
         "discord_id": 1391085138514935898
-      },
-      {
-        "pos": 3,
-        "nick": "_eneku",
-        "discord_id": 1206290789076836403
       }
     ],
     "Venezuela": [
@@ -980,6 +980,11 @@
         "pos": 2,
         "nick": "DREAMRUSO",
         "discord_id": 599336650597728287
+      },
+      {
+        "pos": 3,
+        "nick": "BASTlAN",
+        "discord_id": 465531784315142167
       }
     ]
   },
@@ -1548,7 +1553,7 @@
     "Panamá": [
       {
         "pos": 1,
-        "nick": "Uxci",
+        "nick": "uxci",
         "discord_id": 1293150496835764297
       }
     ],
@@ -1891,13 +1896,13 @@
     "Panamá": [
       {
         "pos": 1,
-        "nick": "iShxdowHuntxr",
-        "discord_id": 1018239878997233734
+        "nick": "uxci",
+        "discord_id": 1293150496835764297
       },
       {
         "pos": 2,
-        "nick": "Uxci",
-        "discord_id": 1293150496835764297
+        "nick": "iShxdowHuntxr",
+        "discord_id": 1018239878997233734
       }
     ],
     "Perú": [
