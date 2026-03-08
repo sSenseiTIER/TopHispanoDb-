@@ -709,31 +709,26 @@
     "Venezuela": [
       {
         "pos": 1,
-        "nick": "DaShineEz",
-        "discord_id": 993730848643887175
-      },
-      {
-        "pos": 2,
         "nick": "BASTlAN",
         "discord_id": 465531784315142167
       },
       {
-        "pos": 3,
+        "pos": 2,
         "nick": "siemprelloro",
         "discord_id": 1105557419746140160
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nick": "Samuu_MC",
         "discord_id": 1132736885635166278
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "iLexor",
         "discord_id": 1305892442687410221
       },
       {
-        "pos": 6,
+        "pos": 5,
         "nick": "DREAMRUSO",
         "discord_id": 599336650597728287
       }
@@ -2102,11 +2097,6 @@
         "pos": 3,
         "nick": "siemprelloro",
         "discord_id": 1105557419746140160
-      },
-      {
-        "pos": 4,
-        "nick": "DaShineEz",
-        "discord_id": 993730848643887175
       }
     ]
   },
