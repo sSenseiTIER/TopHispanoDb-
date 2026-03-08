@@ -806,13 +806,13 @@
       },
       {
         "pos": 3,
-        "nick": "HitSilent",
-        "discord_id": 1398121709726601309
+        "nick": "HAZHIRA",
+        "discord_id": 708014334500143146
       },
       {
         "pos": 4,
-        "nick": "HAZHIRA",
-        "discord_id": 708014334500143146
+        "nick": "HitSilent",
+        "discord_id": 1398121709726601309
       }
     ],
     "Colombia": [
@@ -2251,11 +2251,6 @@
     "Venezuela": [
       {
         "pos": 1,
-        "nick": "DaShineEz",
-        "discord_id": 993730848643887175
-      },
-      {
-        "pos": 2,
         "nick": "HolaRegez",
         "discord_id": 1175550997968457741
       }
