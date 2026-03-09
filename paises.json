@@ -1571,6 +1571,11 @@
         "pos": 2,
         "nick": "GlaceonZero",
         "discord_id": 1453195785335214182
+      },
+      {
+        "pos": 3,
+        "nick": "Zyn0rk",
+        "discord_id": 996089658758942773
       }
     ],
     "Ecuador": [
@@ -1901,26 +1906,21 @@
       },
       {
         "pos": 2,
-        "nick": "JosuaColombia",
-        "discord_id": 1021497775709503609
-      },
-      {
-        "pos": 3,
         "nick": "Heatedsand",
         "discord_id": 887329148660498432
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nick": "iAndriws",
         "discord_id": 702370364344238150
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "Nicoxis23",
         "discord_id": 502592204150145035
       },
       {
-        "pos": 6,
+        "pos": 5,
         "nick": "AzoroBitMC",
         "discord_id": 988198551056171018
       }
