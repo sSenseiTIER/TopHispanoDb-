@@ -803,6 +803,11 @@
         "pos": 4,
         "nick": "HitSilent",
         "discord_id": 1398121709726601309
+      },
+      {
+        "pos": 5,
+        "nick": "zNewt1",
+        "discord_id": 1139344966330617899
       }
     ],
     "Colombia": [
@@ -1270,18 +1275,18 @@
       },
       {
         "pos": 4,
+        "nick": "ILoveMilanesa",
+        "discord_id": 1270571971926556675
+      },
+      {
+        "pos": 5,
         "nick": "Nyroxks",
         "discord_id": 1019361498528747560
       },
       {
-        "pos": 5,
+        "pos": 6,
         "nick": "M1LKYDOL",
         "discord_id": 880819683572477993
-      },
-      {
-        "pos": 6,
-        "nick": "ILoveMilanesa",
-        "discord_id": 1270571971926556675
       },
       {
         "pos": 7,
@@ -1305,6 +1310,11 @@
         "pos": 2,
         "nick": "E1ghteen",
         "discord_id": 787355187529515020
+      },
+      {
+        "pos": 3,
+        "nick": "zNewt1",
+        "discord_id": 1139344966330617899
       }
     ],
     "Colombia": [
@@ -2100,8 +2110,8 @@
     "Venezuela": [
       {
         "pos": 1,
-        "nick": "SriFranMG",
-        "discord_id": 779872705285455882
+        "nick": "siemprelloro",
+        "discord_id": 1105557419746140160
       },
       {
         "pos": 2,
@@ -2110,8 +2120,8 @@
       },
       {
         "pos": 3,
-        "nick": "siemprelloro",
-        "discord_id": 1105557419746140160
+        "nick": "SriFranMG",
+        "discord_id": 779872705285455882
       },
       {
         "pos": 4,
