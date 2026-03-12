@@ -118,13 +118,13 @@
       },
       {
         "pos": 3,
-        "nick": "ColombianBlatant",
-        "discord_id": 1334957341728309324
+        "nick": "Aylit",
+        "discord_id": 1051620807517945907
       },
       {
         "pos": 4,
-        "nick": "Aylit",
-        "discord_id": 1051620807517945907
+        "nick": "ColombianBlatant",
+        "discord_id": 1334957341728309324
       }
     ],
     "Costa Rica": [
@@ -147,6 +147,11 @@
         "pos": 4,
         "nick": "JunPaPiVaktp",
         "discord_id": 1133512734516981801
+      },
+      {
+        "pos": 5,
+        "nick": "imnta",
+        "discord_id": 902216787557494834
       }
     ],
     "Ecuador": [
@@ -882,6 +887,11 @@
         "pos": 1,
         "nick": "GlaceonZero",
         "discord_id": 1453195785335214182
+      },
+      {
+        "pos": 2,
+        "nick": "imnta",
+        "discord_id": 902216787557494834
       }
     ],
     "Ecuador": [
@@ -1186,6 +1196,11 @@
         "pos": 1,
         "nick": "GlaceonZero",
         "discord_id": 1453195785335214182
+      },
+      {
+        "pos": 2,
+        "nick": "imnta",
+        "discord_id": 902216787557494834
       }
     ],
     "Ecuador": [
@@ -1424,7 +1439,13 @@
         "discord_id": 1051620807517945907
       }
     ],
-    "Costa Rica": [],
+    "Costa Rica": [
+      {
+        "pos": 1,
+        "nick": "imnta",
+        "discord_id": 902216787557494834
+      }
+    ],
     "Ecuador": [
       {
         "pos": 1,
@@ -1696,6 +1717,11 @@
         "pos": 3,
         "nick": "Zyn0rk",
         "discord_id": 996089658758942773
+      },
+      {
+        "pos": 4,
+        "nick": "imnta",
+        "discord_id": 902216787557494834
       }
     ],
     "Ecuador": [
@@ -2293,7 +2319,13 @@
       }
     ],
     "Colombia": [],
-    "Costa Rica": [],
+    "Costa Rica": [
+      {
+        "pos": 1,
+        "nick": "imnta",
+        "discord_id": 902216787557494834
+      }
+    ],
     "Ecuador": [],
     "El Salvador": [
       {
@@ -2406,13 +2438,13 @@
       },
       {
         "pos": 2,
-        "nick": "SertianHD",
-        "discord_id": 603643842545319956
+        "nick": "Yatelaestampo_",
+        "discord_id": 1315703509953413141
       },
       {
         "pos": 3,
-        "nick": "Yatelaestampo_",
-        "discord_id": 1315703509953413141
+        "nick": "SertianHD",
+        "discord_id": 603643842545319956
       }
     ]
   },
