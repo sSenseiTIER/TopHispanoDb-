@@ -157,13 +157,13 @@
     "Ecuador": [
       {
         "pos": 1,
-        "nick": "zS4G4",
-        "discord_id": 1011773389825900665
+        "nick": "ecunem",
+        "discord_id": 1050810800610222122
       },
       {
         "pos": 2,
-        "nick": "ecunem",
-        "discord_id": 1050810800610222122
+        "nick": "zS4G4",
+        "discord_id": 1011773389825900665
       },
       {
         "pos": 3,
@@ -512,13 +512,13 @@
     "Chile": [
       {
         "pos": 1,
-        "nick": "xGiuliano_Ki",
-        "discord_id": 1262423692408000654
+        "nick": "zNewt1",
+        "discord_id": 1139344966330617899
       },
       {
         "pos": 2,
-        "nick": "zNewt1",
-        "discord_id": 1139344966330617899
+        "nick": "xGiuliano_Ki",
+        "discord_id": 1262423692408000654
       },
       {
         "pos": 3,
@@ -902,16 +902,11 @@
       },
       {
         "pos": 3,
-        "nick": "ArribaLaChapiza",
-        "discord_id": 1428116487637438585
-      },
-      {
-        "pos": 4,
         "nick": "EwIsraa",
         "discord_id": 716437325260783747
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "zDropeByKiller",
         "discord_id": 1168683567673516104
       }
