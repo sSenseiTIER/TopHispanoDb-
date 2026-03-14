@@ -81,13 +81,13 @@
       },
       {
         "pos": 6,
-        "nick": "92xfz",
-        "discord_id": 999110641874903113
+        "nick": "zNewt1",
+        "discord_id": 1139344966330617899
       },
       {
         "pos": 7,
-        "nick": "zNewt1",
-        "discord_id": 1139344966330617899
+        "nick": "92xfz",
+        "discord_id": 999110641874903113
       },
       {
         "pos": 8,
@@ -145,13 +145,13 @@
       },
       {
         "pos": 4,
-        "nick": "JunPaPiVaktp",
-        "discord_id": 1133512734516981801
+        "nick": "imnta",
+        "discord_id": 902216787557494834
       },
       {
         "pos": 5,
-        "nick": "imnta",
-        "discord_id": 902216787557494834
+        "nick": "JunPaPiVaktp",
+        "discord_id": 1133512734516981801
       }
     ],
     "Ecuador": [
@@ -167,23 +167,23 @@
       },
       {
         "pos": 3,
-        "nick": "rylovesyba",
-        "discord_id": 995696736217616434
-      },
-      {
-        "pos": 4,
         "nick": "EwIsraa",
         "discord_id": 716437325260783747
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "zDropeByKiller",
         "discord_id": 1168683567673516104
       },
       {
-        "pos": 6,
+        "pos": 5,
         "nick": "NOSTVAGE",
         "discord_id": 1174158674214797353
+      },
+      {
+        "pos": 6,
+        "nick": "Fachhy",
+        "discord_id": 945135590049984535
       },
       {
         "pos": 7,
@@ -192,11 +192,6 @@
       },
       {
         "pos": 8,
-        "nick": "Fachhy",
-        "discord_id": 945135590049984535
-      },
-      {
-        "pos": 9,
         "nick": "PXOJA",
         "discord_id": 1393977541051813970
       }
@@ -287,8 +282,8 @@
       },
       {
         "pos": 7,
-        "nick": "TheFearOfGod",
-        "discord_id": 1208211589178593383
+        "nick": "novatoyjoven",
+        "discord_id": 1477814764993380385
       },
       {
         "pos": 8,
@@ -897,16 +892,11 @@
       },
       {
         "pos": 2,
-        "nick": "rylovesyba",
-        "discord_id": 995696736217616434
-      },
-      {
-        "pos": 3,
         "nick": "EwIsraa",
         "discord_id": 716437325260783747
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nick": "zDropeByKiller",
         "discord_id": 1168683567673516104
       }
@@ -1022,8 +1012,8 @@
       },
       {
         "pos": 7,
-        "nick": "SupMango",
-        "discord_id": 826803175159496755
+        "nick": "LenelFA",
+        "discord_id": 426164479332712448
       },
       {
         "pos": 8,
@@ -1032,8 +1022,8 @@
       },
       {
         "pos": 9,
-        "nick": "LenelFA",
-        "discord_id": 426164479332712448
+        "nick": "SupMango",
+        "discord_id": 826803175159496755
       },
       {
         "pos": 10,
@@ -1738,7 +1728,7 @@
     "Ecuador": [
       {
         "pos": 1,
-        "nick": "polla",
+        "nick": "Ldqus",
         "discord_id": 977322307762679888
       },
       {
@@ -2000,6 +1990,11 @@
         "pos": 9,
         "nick": "olfd",
         "discord_id": 1133086656665235568
+      },
+      {
+        "pos": 10,
+        "nick": "Partituras",
+        "discord_id": 1231699387600732252
       }
     ],
     "Bolivia": [],
