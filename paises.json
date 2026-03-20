@@ -997,7 +997,13 @@
         "discord_id": 660534428518318090
       }
     ],
-    "Nicaragua": [],
+    "Nicaragua": [
+      {
+        "pos": 1,
+        "nick": "xMiass",
+        "discord_id": 1099765314641727489
+      }
+    ],
     "Panamá": [
       {
         "pos": 1,
