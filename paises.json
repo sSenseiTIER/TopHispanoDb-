@@ -1540,7 +1540,13 @@
         "discord_id": 805282127490056232
       }
     ],
-    "Nicaragua": [],
+    "Nicaragua": [
+      {
+        "pos": 1,
+        "nick": "AtomicGe",
+        "discord_id": 765808291585720321
+      }
+    ],
     "Panamá": [
       {
         "pos": 1,
