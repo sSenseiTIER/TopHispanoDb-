@@ -2289,7 +2289,13 @@
         "discord_id": 1091976186663538748
       }
     ],
-    "Nicaragua": [],
+    "Nicaragua": [
+      {
+        "pos": 1,
+        "nick": "AtomicGe",
+        "discord_id": 765808291585720321
+      }
+    ],
     "Panamá": [
       {
         "pos": 1,
