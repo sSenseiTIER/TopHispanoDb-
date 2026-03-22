@@ -474,11 +474,6 @@
       },
       {
         "pos": 9,
-        "nick": "iLexor",
-        "discord_id": 1305892442687410221
-      },
-      {
-        "pos": 10,
         "nick": "CqttWhite",
         "discord_id": 1405969319824986214
       }
@@ -775,21 +770,16 @@
       },
       {
         "pos": 4,
-        "nick": "iLexor",
-        "discord_id": 1305892442687410221
-      },
-      {
-        "pos": 5,
         "nick": "DREAMRUSO",
         "discord_id": 599336650597728287
       },
       {
-        "pos": 6,
+        "pos": 5,
         "nick": "SertianHD",
         "discord_id": 603643842545319956
       },
       {
-        "pos": 7,
+        "pos": 6,
         "nick": "Yatelaestampo_",
         "discord_id": 1315703509953413141
       }
@@ -1404,21 +1394,16 @@
     "Venezuela": [
       {
         "pos": 1,
-        "nick": "iLexor",
-        "discord_id": 1305892442687410221
-      },
-      {
-        "pos": 2,
         "nick": "DREAMRUSO",
         "discord_id": 599336650597728287
       },
       {
-        "pos": 3,
+        "pos": 2,
         "nick": "SertianHD",
         "discord_id": 603643842545319956
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nick": "Yatelaestampo_",
         "discord_id": 1315703509953413141
       }
@@ -1643,11 +1628,6 @@
       },
       {
         "pos": 2,
-        "nick": "iLexor",
-        "discord_id": 1305892442687410221
-      },
-      {
-        "pos": 3,
         "nick": "SertianHD",
         "discord_id": 603643842545319956
       }
