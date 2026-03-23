@@ -1915,7 +1915,13 @@
         "discord_id": 1390761690546704384
       }
     ],
-    "Nicaragua": [],
+    "Nicaragua": [
+      {
+        "pos": 1,
+        "nick": "gnarled_",
+        "discord_id": 1008163311306670112
+      }
+    ],
     "Panamá": [
       {
         "pos": 1,
