@@ -1706,7 +1706,13 @@
         "discord_id": 1046817188742443058
       }
     ],
-    "Bolivia": [],
+    "Bolivia": [
+      {
+        "pos": 1,
+        "nick": "DangerMariox",
+        "discord_id": 1478221762721353758
+      }
+    ],
     "Chile": [
       {
         "pos": 1,
@@ -1784,6 +1790,11 @@
         "pos": 7,
         "nick": "zOxshy",
         "discord_id": 1418033251418640425
+      },
+      {
+        "pos": 8,
+        "nick": "tcreckpe",
+        "discord_id": 789558335631786046
       }
     ],
     "Costa Rica": [
@@ -1838,6 +1849,21 @@
         "pos": 5,
         "nick": "HeavensBliss",
         "discord_id": 896621464504115271
+      },
+      {
+        "pos": 6,
+        "nick": "DangerMariox",
+        "discord_id": 1478221762721353758
+      },
+      {
+        "pos": 7,
+        "nick": "DepredadorSigma",
+        "discord_id": 1418057761383780457
+      },
+      {
+        "pos": 8,
+        "nick": "Henzal",
+        "discord_id": 1478953968708096143
       }
     ],
     "El Salvador": [
@@ -1867,6 +1893,11 @@
         "pos": 1,
         "nick": "ErPeruanoht4",
         "discord_id": 1380251423123439616
+      },
+      {
+        "pos": 2,
+        "nick": "Henzal",
+        "discord_id": 1478953968708096143
       }
     ],
     "Guatemala": [
@@ -2065,6 +2096,11 @@
         "pos": 6,
         "nick": "BASTlAN",
         "discord_id": 465531784315142167
+      },
+      {
+        "pos": 7,
+        "nick": "Phonexii_",
+        "discord_id": 1459705394711494716
       }
     ]
   },
