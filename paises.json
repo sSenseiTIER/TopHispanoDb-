@@ -2529,7 +2529,13 @@
         "discord_id": 902216787557494834
       }
     ],
-    "Ecuador": [],
+    "Ecuador": [
+      {
+        "pos": 1,
+        "nick": "Henzal",
+        "discord_id": 1478953968708096143
+      }
+    ],
     "El Salvador": [
       {
         "pos": 1,
