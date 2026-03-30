@@ -57,6 +57,11 @@
         "pos": 1,
         "nick": "anueldeorojeje",
         "discord_id": 1218393257663270952
+      },
+      {
+        "pos": 2,
+        "nick": "slecz",
+        "discord_id": 1386073958947749940
       }
     ],
     "Chile": [
@@ -524,7 +529,13 @@
         "discord_id": 989381888101736448
       }
     ],
-    "Bolivia": [],
+    "Bolivia": [
+      {
+        "pos": 1,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
+      }
+    ],
     "Chile": [
       {
         "pos": 1,
@@ -1530,7 +1541,13 @@
         "discord_id": 989381888101736448
       }
     ],
-    "Bolivia": [],
+    "Bolivia": [
+      {
+        "pos": 1,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
+      }
+    ],
     "Chile": [
       {
         "pos": 1,
@@ -1714,8 +1731,8 @@
     "Uruguay": [
       {
         "pos": 1,
-        "nick": "nylue9",
-        "discord_id": 1119053716788617276
+        "nick": "Verniqee",
+        "discord_id": 1326712304300986378
       }
     ],
     "Venezuela": [
@@ -1779,7 +1796,18 @@
         "discord_id": 1046817188742443058
       }
     ],
-    "Bolivia": [],
+    "Bolivia": [
+      {
+        "pos": 1,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
+      },
+      {
+        "pos": 2,
+        "nick": "slecz",
+        "discord_id": 1386073958947749940
+      }
+    ],
     "Chile": [
       {
         "pos": 1,
@@ -2229,6 +2257,16 @@
         "pos": 1,
         "nick": "Robootkiller",
         "discord_id": 1352690463852986469
+      },
+      {
+        "pos": 2,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
+      },
+      {
+        "pos": 3,
+        "nick": "slecz",
+        "discord_id": 1386073958947749940
       }
     ],
     "Chile": [
@@ -2569,6 +2607,11 @@
         "pos": 1,
         "nick": "Cuco4",
         "discord_id": 1378774480259649598
+      },
+      {
+        "pos": 2,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
       }
     ],
     "Chile": [
