@@ -94,11 +94,6 @@
     },
     {
       "pos": 9,
-      "nick": "Verniqee",
-      "discord_id": 1326712304300986378
-    },
-    {
-      "pos": 10,
       "nick": "siemprelloro",
       "discord_id": 1105557419746140160
     }
@@ -141,16 +136,11 @@
     },
     {
       "pos": 8,
-      "nick": "verniqee",
-      "discord_id": 1326712304300986378
-    },
-    {
-      "pos": 9,
       "nick": "Shortyys",
       "discord_id": 1377441919835308124
     },
     {
-      "pos": 10,
+      "pos": 9,
       "nick": "tcreckpe",
       "discord_id": 789558335631786046
     }
@@ -163,48 +153,43 @@
     },
     {
       "pos": 2,
-      "nick": "Verniqee",
-      "discord_id": 1326712304300986378
-    },
-    {
-      "pos": 3,
       "nick": "PXOJA",
       "discord_id": 1393977541051813970
     },
     {
-      "pos": 4,
+      "pos": 3,
       "nick": "33Nzco",
       "discord_id": 1093545166826127410
     },
     {
-      "pos": 5,
+      "pos": 4,
       "nick": "Perceverancia",
       "discord_id": 1470004623497494549
     },
     {
-      "pos": 6,
+      "pos": 5,
       "nick": "Morfeeo_Lt",
       "discord_id": 1399576478827679777
     },
     {
-      "pos": 7,
+      "pos": 6,
       "nick": "GlaceonZero",
       "discord_id": 1453195785335214182
     },
     {
-      "pos": 8,
+      "pos": 7,
       "nick": "7Xzzz",
       "discord_id": 1429976323773960344
+    },
+    {
+      "pos": 8,
+      "nick": "Shortyys",
+      "discord_id": 1377441919835308124
     },
     {
       "pos": 9,
       "nick": "iKissMe_",
       "discord_id": 942830957260582953
-    },
-    {
-      "pos": 10,
-      "nick": "Shortyys",
-      "discord_id": 1377441919835308124
     }
   ],
   "smp": [
