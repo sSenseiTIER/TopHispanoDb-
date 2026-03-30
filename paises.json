@@ -52,7 +52,13 @@
         "discord_id": 690335242573316187
       }
     ],
-    "Bolivia": [],
+    "Bolivia": [
+      {
+        "pos": 1,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
+      }
+    ],
     "Chile": [
       {
         "pos": 1,
@@ -209,6 +215,11 @@
         "pos": 7,
         "nick": "Desconfiqdo",
         "discord_id": 1458922376518434818
+      },
+      {
+        "pos": 8,
+        "nick": "SabrinaCarpnter",
+        "discord_id": 933543394439999488
       }
     ],
     "El Salvador": [
@@ -853,7 +864,13 @@
         "discord_id": 1262560508633157632
       }
     ],
-    "Bolivia": [],
+    "Bolivia": [
+      {
+        "pos": 1,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
+      }
+    ],
     "Chile": [
       {
         "pos": 1,
@@ -894,6 +911,11 @@
         "pos": 8,
         "nick": "itnifoxz",
         "discord_id": 1402745900467753042
+      },
+      {
+        "pos": 9,
+        "nick": "qvcv",
+        "discord_id": 939686184504938506
       }
     ],
     "Colombia": [
@@ -950,6 +972,11 @@
         "pos": 2,
         "nick": "zDropeByKiller",
         "discord_id": 1168683567673516104
+      },
+      {
+        "pos": 3,
+        "nick": "SabrinaCarpnter",
+        "discord_id": 933543394439999488
       }
     ],
     "El Salvador": [
@@ -1203,7 +1230,13 @@
         "discord_id": 1272343935758499952
       }
     ],
-    "Bolivia": [],
+    "Bolivia": [
+      {
+        "pos": 1,
+        "nick": "anueldeorojeje",
+        "discord_id": 1218393257663270952
+      }
+    ],
     "Chile": [
       {
         "pos": 1,
@@ -1229,6 +1262,11 @@
         "pos": 5,
         "nick": "DaniFloww_",
         "discord_id": 1276693279055810651
+      },
+      {
+        "pos": 6,
+        "nick": "qvcv",
+        "discord_id": 939686184504938506
       }
     ],
     "Colombia": [
@@ -1275,6 +1313,11 @@
         "pos": 3,
         "nick": "zDropeByKiller",
         "discord_id": 1168683567673516104
+      },
+      {
+        "pos": 4,
+        "nick": "SabrinaCarpnter",
+        "discord_id": 933543394439999488
       }
     ],
     "El Salvador": [
