@@ -196,7 +196,7 @@
       },
       {
         "pos": 6,
-        "nick": "MoritaEz",
+        "nick": "morita10",
         "discord_id": 1298116725857976384
       }
     ],
@@ -2223,13 +2223,13 @@
       },
       {
         "pos": 8,
-        "nick": "h0rxz",
-        "discord_id": 1093647235717271702
+        "nick": "Adr1gon",
+        "discord_id": 993682551518543883
       },
       {
         "pos": 9,
-        "nick": "Adr1gon",
-        "discord_id": 993682551518543883
+        "nick": "h0rxz",
+        "discord_id": 1093647235717271702
       }
     ]
   },
@@ -2387,7 +2387,13 @@
         "discord_id": 789558335631786046
       }
     ],
-    "Costa Rica": [],
+    "Costa Rica": [
+      {
+        "pos": 1,
+        "nick": "morita10",
+        "discord_id": 1298116725857976384
+      }
+    ],
     "Ecuador": [
       {
         "pos": 1,
