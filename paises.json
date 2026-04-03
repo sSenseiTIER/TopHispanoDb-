@@ -198,7 +198,7 @@
     "Ecuador": [
       {
         "pos": 1,
-        "nick": "ecunem",
+        "nick": "ecumen",
         "discord_id": 1050810800610222122
       },
       {
@@ -1008,6 +1008,11 @@
         "pos": 3,
         "nick": "zDropeByKiller",
         "discord_id": 1168683567673516104
+      },
+      {
+        "pos": 4,
+        "nick": "ecumen",
+        "discord_id": 1050810800610222122
       }
     ],
     "El Salvador": [
@@ -1341,7 +1346,7 @@
       },
       {
         "pos": 3,
-        "nick": "ecunem",
+        "nick": "ecumen",
         "discord_id": 1050810800610222122
       },
       {
