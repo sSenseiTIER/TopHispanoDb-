@@ -119,7 +119,7 @@
       },
       {
         "pos": 2,
-        "nick": "JoshTheWorst",
+        "nick": "JoshTheworst",
         "discord_id": 1334957341728309324
       },
       {
@@ -1877,6 +1877,11 @@
         "pos": 9,
         "nick": "IdeasOrejas",
         "discord_id": 957724603487223850
+      },
+      {
+        "pos": 10,
+        "nick": "jpapu",
+        "discord_id": 673261716418592778
       }
     ],
     "Colombia": [
@@ -2353,6 +2358,11 @@
         "pos": 9,
         "nick": "zNewElBuenito",
         "discord_id": 1139344966330617899
+      },
+      {
+        "pos": 10,
+        "nick": "jpapu",
+        "discord_id": 673261716418592778
       }
     ],
     "Colombia": [
