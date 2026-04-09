@@ -252,26 +252,21 @@
     "España": [
       {
         "pos": 1,
-        "nick": "Huessitoss",
-        "discord_id": 610445964846563329
-      },
-      {
-        "pos": 2,
         "nick": "lautillero",
         "discord_id": 1017902062173966447
       },
       {
-        "pos": 3,
+        "pos": 2,
         "nick": "ErPeruanoht4",
         "discord_id": 1380251423123439616
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nick": "milotix1298",
         "discord_id": 1367976782497710243
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "PorEsosOjoss",
         "discord_id": 1272213732851843174
       }
@@ -345,6 +340,11 @@
         "pos": 8,
         "nick": "PerlasNxgras",
         "discord_id": 1381839736288579744
+      },
+      {
+        "pos": 9,
+        "nick": "StyleOfFryfai",
+        "discord_id": 868612613733490688
       }
     ],
     "Nicaragua": [
