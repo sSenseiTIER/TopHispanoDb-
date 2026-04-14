@@ -1747,13 +1747,7 @@
         "discord_id": 1379895787198349322
       }
     ],
-    "Uruguay": [
-      {
-        "pos": 1,
-        "nick": "Verniqee",
-        "discord_id": 1326712304300986378
-      }
-    ],
+    "Uruguay": [],
     "Venezuela": [
       {
         "pos": 1,
@@ -2127,26 +2121,21 @@
       },
       {
         "pos": 6,
-        "nick": "Fix09",
-        "discord_id": 1370895496134131834
-      },
-      {
-        "pos": 7,
         "nick": "Aleswq",
         "discord_id": 1203046648721178673
       },
       {
-        "pos": 8,
+        "pos": 7,
         "nick": "penepeludo123",
         "discord_id": 1015388131643629668
       },
       {
-        "pos": 9,
+        "pos": 8,
         "nick": "SonOfEffect",
         "discord_id": 801142878616682536
       },
       {
-        "pos": 10,
+        "pos": 9,
         "nick": "Mswyy",
         "discord_id": 1086117252455207014
       }
