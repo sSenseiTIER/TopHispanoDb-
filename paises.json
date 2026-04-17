@@ -1834,7 +1834,7 @@
       },
       {
         "pos": 2,
-        "nick": "Namebasing",
+        "nick": "namebasing",
         "discord_id": 610932667268988928
       },
       {
@@ -2160,6 +2160,11 @@
         "pos": 4,
         "nick": "TUMAMAEN4",
         "discord_id": 1346247824936796290
+      },
+      {
+        "pos": 5,
+        "nick": "6rry",
+        "discord_id": 1371173880319709295
       }
     ],
     "Uruguay": [
