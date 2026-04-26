@@ -328,7 +328,7 @@
       },
       {
         "pos": 10,
-        "nick": "IShadowPsdk",
+        "nick": "iShadowPsdk",
         "discord_id": 705275702055927879
       }
     ],
@@ -520,11 +520,6 @@
       },
       {
         "pos": 3,
-        "nick": "vickslover",
-        "discord_id": 719332673088389191
-      },
-      {
-        "pos": 4,
         "nick": "1maneka",
         "discord_id": 989381888101736448
       }
@@ -1442,6 +1437,11 @@
         "pos": 5,
         "nick": "SixFive65",
         "discord_id": 982814625387139072
+      },
+      {
+        "pos": 6,
+        "nick": "iShadowPsdk",
+        "discord_id": 705275702055927879
       }
     ],
     "Nicaragua": [],
@@ -2104,6 +2104,11 @@
         "pos": 9,
         "nick": "danihits",
         "discord_id": 1426811487770382427
+      },
+      {
+        "pos": 10,
+        "nick": "iShadowPsdk",
+        "discord_id": 705275702055927879
       }
     ],
     "Nicaragua": [
@@ -2253,41 +2258,36 @@
     "Argentina": [
       {
         "pos": 1,
-        "nick": "vickslover",
-        "discord_id": 719332673088389191
-      },
-      {
-        "pos": 2,
         "nick": "Lainsanidad",
         "discord_id": 1261485384102051940
       },
       {
-        "pos": 3,
+        "pos": 2,
         "nick": "Milkydolly_",
         "discord_id": 880819683572477993
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nick": "Vampiro",
         "discord_id": 415240866471477269
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nick": "YkaryD3ad",
         "discord_id": 502872821928689691
       },
       {
-        "pos": 6,
+        "pos": 5,
         "nick": "Tinnch0",
         "discord_id": 1065717967515566150
       },
       {
-        "pos": 7,
+        "pos": 6,
         "nick": "XEnd_3r",
         "discord_id": 1193026797609164944
       },
       {
-        "pos": 8,
+        "pos": 7,
         "nick": "totitodiaa",
         "discord_id": 1016829281072062464
       }
@@ -2500,6 +2500,11 @@
         "pos": 7,
         "nick": "itzAlien_verdoso",
         "discord_id": 1421542458633879644
+      },
+      {
+        "pos": 8,
+        "nick": "iShadowPsdk",
+        "discord_id": 705275702055927879
       }
     ],
     "Nicaragua": [],
@@ -2759,6 +2764,11 @@
         "pos": 4,
         "nick": "_Saagh",
         "discord_id": 1384949060607414334
+      },
+      {
+        "pos": 5,
+        "nick": "iShadowPsdk",
+        "discord_id": 705275702055927879
       }
     ],
     "Nicaragua": [],
