@@ -1765,6 +1765,11 @@
         "pos": 2,
         "nick": "SertianHD",
         "discord_id": 603643842545319956
+      },
+      {
+        "pos": 3,
+        "nick": "Indiscutido",
+        "discord_id": 766035515178483722
       }
     ]
   },
@@ -2594,13 +2599,13 @@
       },
       {
         "pos": 3,
-        "nick": "SertianHD",
-        "discord_id": 603643842545319956
+        "nick": "Indiscutido",
+        "discord_id": 766035515178483722
       },
       {
         "pos": 4,
-        "nick": "Indiscutido",
-        "discord_id": 766035515178483722
+        "nick": "SertianHD",
+        "discord_id": 603643842545319956
       },
       {
         "pos": 5,
