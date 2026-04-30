@@ -1033,11 +1033,6 @@
       },
       {
         "pos": 4,
-        "nick": "Qngy",
-        "discord_id": 414573510225035267
-      },
-      {
-        "pos": 5,
         "nick": "CatalanBoy",
         "discord_id": 1327802828311498783
       }
@@ -1250,13 +1245,13 @@
       },
       {
         "pos": 7,
-        "nick": "etlam560",
-        "discord_id": 1231079971825516646
+        "nick": "siemprelloro",
+        "discord_id": 1105557419746140160
       },
       {
         "pos": 8,
-        "nick": "siemprelloro",
-        "discord_id": 1105557419746140160
+        "nick": "etlam560",
+        "discord_id": 1231079971825516646
       }
     ]
   },
@@ -2368,6 +2363,11 @@
         "pos": 9,
         "nick": "Jpapu",
         "discord_id": 673261716418592778
+      },
+      {
+        "pos": 10,
+        "nick": "DangerSadeexito",
+        "discord_id": 1026183721977651200
       }
     ],
     "Colombia": [
